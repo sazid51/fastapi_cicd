@@ -42,8 +42,8 @@ fastapi_cicd/
 1. Clone the repo
 
 ```bash
-git clone <your-remote-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/sazid51/fastapi_cicd.git
+cd fastapi_cicd
 ```
 
 2. Create and activate a virtual environment:
